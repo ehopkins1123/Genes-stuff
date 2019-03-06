@@ -1,0 +1,1 @@
+cscript DisableFromFile.vbs /InputFile:C:\LSDSYS\SCOM\Main\SCOM2012\Exported\Microsoft.SQLServer.2008.Monitoring.xml /PublicKeyToken:31bf3856ad364e35 /DisableList:C:\LSDSYS\SCOM\Main\Tools\SQL2008-DisableRules.txt
